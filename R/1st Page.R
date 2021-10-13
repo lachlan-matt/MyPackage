@@ -15,3 +15,7 @@ bank <- read.csv("bank.csv")
 
 usethis::use_testthat()
 #usethis::use_test("Multiserver")
+
+usethis::use_git()
+
+
