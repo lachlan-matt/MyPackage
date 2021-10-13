@@ -1,0 +1,19 @@
+Package: MyPackage
+Title: Assignment 2 - Exercise 2
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Lachlan",
+            family = "Matthews",
+            role = c("aut", "cre"),
+            email = "lachlan.matthews1@students.mq.edu.au")
+Description: I couldn't tell you.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    tibble
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
